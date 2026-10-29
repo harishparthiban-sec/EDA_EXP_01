@@ -105,9 +105,27 @@ print(player.head(10))
 ```
 
   **Output**
-  #Add necessary output screenhoets
 
- ** Result**
+  <img width="752" height="706" alt="image" src="https://github.com/user-attachments/assets/67a77594-40ec-4f5e-b4f2-b1ef492f05e4" />
+  <img width="347" height="420" alt="image" src="https://github.com/user-attachments/assets/80590c0c-5591-4d19-93a7-eb330b63501f" />
+  <img width="221" height="62" alt="image" src="https://github.com/user-attachments/assets/09156c5c-4946-4ea4-b931-1217de66dac9" />
+  <img width="292" height="193" alt="image" src="https://github.com/user-attachments/assets/92c924cd-df9c-409c-9936-9ffd29a41a05" />
+  <img width="465" height="418" alt="image" src="https://github.com/user-attachments/assets/d354e2cb-37fb-4773-a482-c71dc90c02ea" />
+  <img width="406" height="150" alt="image" src="https://github.com/user-attachments/assets/52a8d473-8547-40be-a11e-5c4bd08b3bc9" />
+  <img width="732" height="462" alt="image" src="https://github.com/user-attachments/assets/76d72a1c-804e-40c0-96b4-6573be645027" />
+  <img width="456" height="193" alt="image" src="https://github.com/user-attachments/assets/cb015bdb-5b53-41fd-8fa8-6aa4b2bc2857" />
+  <img width="553" height="777" alt="image" src="https://github.com/user-attachments/assets/580adfc1-836d-4b79-ada3-31b691188e1f" />
+  <img width="470" height="152" alt="image" src="https://github.com/user-attachments/assets/23900fc9-f9bf-4034-8567-3145680f662c" />
+  <img width="985" height="423" alt="image" src="https://github.com/user-attachments/assets/f6178bab-bcc6-4ad5-b912-7b4e02317588" />
+  <img width="362" height="142" alt="image" src="https://github.com/user-attachments/assets/2d773a2f-a0c7-4fd5-bf2b-1898ed706a8b" />
+  <img width="312" height="56" alt="image" src="https://github.com/user-attachments/assets/f0559334-5fa6-4d61-9d4a-592a0a27ddb0" />
+  <img width="283" height="227" alt="image" src="https://github.com/user-attachments/assets/fbbd3354-1d82-40bf-be14-91450b31f359" />
+  <img width="295" height="227" alt="image" src="https://github.com/user-attachments/assets/88d06f5b-f49e-4292-97bd-1199dbc53965" />
+  <img width="288" height="242" alt="image" src="https://github.com/user-attachments/assets/08425caa-0021-4f35-9c66-455f54df79c9" />
+
+
+ **Result**
+ 
   This experiment is executed successfully
 
 
